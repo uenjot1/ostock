@@ -20,7 +20,8 @@
 
 
   <modules>
-    <module>licensing-service</module>
+   <module>configserver</module>
+   <module>licensing-service</module>
   </modules>
  
 </project>
